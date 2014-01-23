@@ -1,0 +1,4 @@
+GBSCoin
+=======
+
+Test Alt Coin
